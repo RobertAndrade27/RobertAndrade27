@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My first contact with the dev was in Oct/20
+
+I had no idea what VSCode was😄
+
+Today...
+
+- 🌱 I’m currently studying about
+- ⚡Javscript
+- ⚡ReactJs
+- ⚡MaterialUi
+- ⚡NodeJs
+- ⚡MongoDB
+- ⚡AWS
