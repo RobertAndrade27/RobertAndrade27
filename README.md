@@ -29,5 +29,6 @@ Today...
 - ⚡MongoDB
 - ⚡AWS
 
+⚡ 296 contributions in the last year (Private Projects)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertAndrade27&show_icons=true&theme=dracula)
