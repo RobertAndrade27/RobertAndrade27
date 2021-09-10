@@ -22,11 +22,13 @@ I had no idea what VSCode was😄
 Today...
 
 - 🌱 I’m currently studying about
-- ![alt text](https://i.ibb.co/RSm83v6/js.png)Javscript
-- ![alt text](https://i.ibb.co/ZSzgFgs/react22.png)ReactJs
-- ![alt text](https://i.ibb.co/BnCBn6Y/material.png)MaterialUi
-- ![alt text](https://i.ibb.co/kSvTrKx/node.png)NodeJs
-- ![alt text](https://i.ibb.co/Jn2sMR7/mongo.png)MongoDB
+- ![alt text](https://i.ibb.co/J34F6hp/html.png) HTML
+- ![alt text](https://i.ibb.co/Lt4Mm38/css.png) CSS
+- ![alt text](https://i.ibb.co/RSm83v6/js.png) Javscript
+- ![alt text](https://i.ibb.co/ZSzgFgs/react22.png) ReactJs
+- ![alt text](https://i.ibb.co/BnCBn6Y/material.png) MaterialUi
+- ![alt text](https://i.ibb.co/kSvTrKx/node.png) NodeJs
+- ![alt text](https://i.ibb.co/Jn2sMR7/mongo.png) MongoDB
 - ⚡AWS
 
 ⚡ 296 contributions in the last year (Private Projects)
