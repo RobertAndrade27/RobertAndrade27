@@ -35,4 +35,3 @@ Today...
 ⚡ (Private Projects)
 ![alt text](https://i.ibb.co/5hc4rzs/contribuitions.jpg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertAndrade27&show_icons=true&theme=dracula)
