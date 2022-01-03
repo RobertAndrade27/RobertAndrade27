@@ -33,5 +33,5 @@ Today...
 - ⚡ AWS
 
 ⚡ (Private Projects)
-![alt text](https://i.ibb.co/5hc4rzs/contribuitions.jpg)
+![alt text](https://i.ibb.co/GWvNNMn/510.jpg)
 
