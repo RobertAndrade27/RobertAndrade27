@@ -32,7 +32,4 @@ Today...
 - ![alt text](https://i.ibb.co/Jn2sMR7/mongo.png) MongoDB
 - ⚡ AWS
 
-⚡ (Private Projects)
-
-- ![alt text](https://i.ibb.co/GWvNNMn/510.jpg)
 
