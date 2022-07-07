@@ -25,7 +25,7 @@ Today...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertandrade27&layout=compact&theme=tokyonight)](https://github.com/robertandrade27/github-readme-stats)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/robertandrade27/robertandrade27)](https://github.com/RobertaAdrade27/RobertaAdrade27)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/robertandrade27)](https://github.com/robertandrade27)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-andrade-a3305696/)](https://www.linkedin.com/in/robert-andrade-a3305696/)
 
 - 🌱 I’m currently studying about
