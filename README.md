@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My first contact with the dev was in Oct/20
 
-I had no idea what VSCode was😄
 
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/robertandrade27)](https://github.com/robertandrade27)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robert-andrade-a3305696/)](https://www.linkedin.com/in/robert-andrade-a3305696/)
 
-- 🌱 I’m currently studying about
+
 
 <code><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt = "Javascript" /></code>
 <code><img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "Typescript" /></code>
