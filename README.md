@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RobertAndrade27&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="dariofh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RobertAndrade27&show_icons=true&theme=dark&title_color=fafafa&text_color=fafafa&hide_border=true&locale=en" alt="dariofh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RobertAndrade27&theme=highcontrast" alt="dariofh" /></p>
+
+
